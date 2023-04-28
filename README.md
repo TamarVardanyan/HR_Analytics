@@ -1,5 +1,5 @@
 HR_Analytics
-Example ML portfolio
+Example ML
 # HR_Analytics: Why Workers Quit? Attrition in an Organization.
 · Data Visualization on a given HR Analytics dataset
 
